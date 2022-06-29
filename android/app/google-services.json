@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243618955091",
+    "project_id": "petlify-40d7d",
+    "storage_bucket": "petlify-40d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243618955091:android:18af977c54833fd3732ba6",
+        "android_client_info": {
+          "package_name": "com.vyshnav.petlify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243618955091-n5angofa2hvobc5orsvlnjgdav5s57fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vyshnav.petlify",
+            "certificate_hash": "759966f6a5335adf1f8b05799cd57f3b9ce80775"
+          }
+        },
+        {
+          "client_id": "243618955091-cs1ptic218l6fkvifpbku4t3v964evk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTE83jVdhJNGFDMD6dp4ORrTtMLEAl5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243618955091-cs1ptic218l6fkvifpbku4t3v964evk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
